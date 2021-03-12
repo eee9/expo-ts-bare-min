@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>r02, L3C, npm updated.</Text>
+      <Text>r03, L3C, reanimated v2.</Text>
       <Text>Open up App.tsx to start working on your app!</Text>
     </View>
   );
