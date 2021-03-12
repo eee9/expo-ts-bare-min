@@ -1,0 +1,12 @@
+{
+  "name": "test_min_l3c",
+  "displayName": "test_min_l3c",
+  "expo": {
+    "name": "test_min_l3c",
+    "slug": "test_min_l3c",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
